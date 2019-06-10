@@ -1,0 +1,6 @@
+Intrinio
+Ta
+Ta Lib
+Alpha Vantage
+Quandl
+Yahoo Finance
